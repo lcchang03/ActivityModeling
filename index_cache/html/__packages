@@ -1,0 +1,11 @@
+base
+lattice
+ggplot2
+caret
+dplyr
+mlbench
+foreach
+iterators
+doParallel
+randomForest
+MASS
